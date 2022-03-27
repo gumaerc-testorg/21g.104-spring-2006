@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6d83cd6a-4f37-eeab-2aaa-e89cd7e348bb
 resourcetype: Document
 title: "Highlights of Units 10 \u2013 1 (Chinese 3, 2, 1)"
 uid: f10351b0-68d9-7a2f-4826-f19d9099e05e

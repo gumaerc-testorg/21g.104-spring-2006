@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains information about required textbooks, Review Materials
+  from Chinese I, II, and III and Materials for Chinese IV, Learning Chinese (Part
+  4).
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -21,15 +24,15 @@ Wheatley, Julian K. _Learning Chinese: A Foundation Course in Mandarin (Part 4)_
 Review Materials from Chinese I, II, and III
 --------------------------------------------
 
-Highlights of Units 1-10 ([PDF]({{< baseurl >}}/resources/mit21g_104s06_review))
+Highlights of Units 1-10 ({{% resource_link f10351b0-68d9-7a2f-4826-f19d9099e05e "PDF" %}})
 
 Materials for Chinese IV, _Learning Chinese (Part 4)_
 -----------------------------------------------------
 
-Table of Contents (Part 4) ([PDF]({{< baseurl >}}/resources/mit21g_104s06_contents))
+Table of Contents (Part 4) ({{% resource_link 0ed1a28a-5337-cc38-61ca-3fb747e0b40f "PDF" %}})
 
-Unit 11 ([PDF]({{< baseurl >}}/resources/mit21g_104s06_unit11))
+Unit 11 ({{% resource_link bdc881dd-4f7c-1072-47f7-025de6cdf46f "PDF" %}})
 
-Unit 12 ([PDF]({{< baseurl >}}/resources/mit21g_104s06_unit12))
+Unit 12 ({{% resource_link 2c94d175-d181-a5ea-b79d-ba2ec03fb385 "PDF" %}})
 
-The Chinese Menu ([PDF]({{< baseurl >}}/resources/mit21g_104s06_menu))
+The Chinese Menu ({{% resource_link efd6de01-3aa4-945e-92f9-2257a4429660 "PDF" %}})

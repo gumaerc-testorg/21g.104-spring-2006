@@ -6,6 +6,7 @@ file: /courses/21g-104-chinese-iv-regular-spring-2006/efd6de013aa4945e92f92257a4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "The Chinese Menu (Zh\u014Dnggu\xF3 c\xE0id\u0101n)"
 uid: efd6de01-3aa4-945e-92f9-2257a4429660
 ---
 This file contains information regarding the Chinese menu (Zhōngguó càidān).
-

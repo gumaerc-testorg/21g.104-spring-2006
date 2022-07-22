@@ -1,20 +1,25 @@
 ---
 content_type: page
+description: This section contains information about the abbrevation key and daily
+  assignments.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 9fc40ec1-661d-23c2-d224-0eff226bc4f9
 ---
 
-This section features the [daily assignments](#Daily_Assignments) for the course. All the assignments rely heavily on texts available in [readings]({{< baseurl >}}/pages/readings) and audio files available in [study materials]({{< baseurl >}}/pages/study-materials). For Part 1, review materials from Chinese III can be found in [readings]({{< baseurl >}}/pages/readings), but more comprehensively at [21G.103](/courses/21g-103-chinese-iii-regular-fall-2005/) (the Chinese III site).
+This section features the [daily assignments](#Daily_Assignments) for the course. All the assignments rely heavily on texts available in {{% resource_link 6d83cd6a-4f37-eeab-2aaa-e89cd7e348bb "readings" %}} and audio files available in {{% resource_link a05118db-5172-c603-a0ce-4852f37b20ed "study materials" %}}. For Part 1, review materials from Chinese III can be found in {{% resource_link 6d83cd6a-4f37-eeab-2aaa-e89cd7e348bb "readings" %}}, but more comprehensively at [21G.103](/courses/21g-103-chinese-iii-regular-fall-2005) (the Chinese III site).
 
 Overview
 --------
 
-The term is divided into five cycles. In all five, three sets of readings (from _Learning Chinese_, _Making Connections_, and _Strange Stories from a Chinese Studio_) are intermeshed. (Please see the abbreviations key below.) During Cycles 2, 4 and 5, you also work towards a class presentation along the lines described in the [syllabus]({{< baseurl >}}/pages/syllabus). All 5 cycles also have a written test, usually about 30 minutes long, and involving reading in characters and writing in pinyin. There is no final examination.
+The term is divided into five cycles. In all five, three sets of readings (from _Learning Chinese_, _Making Connections_, and _Strange Stories from a Chinese Studio_) are intermeshed. (Please see the abbreviations key below.) During Cycles 2, 4 and 5, you also work towards a class presentation along the lines described in the {{% resource_link 87f49e38-d305-e8c5-2187-c99af50f36ec "syllabus" %}}. All 5 cycles also have a written test, usually about 30 minutes long, and involving reading in characters and writing in pinyin. There is no final examination.
 
 Abbreviations Key
 -----------------
 
-The assignments below make reference to sections within three particular texts. "Unit" refers to the units of _Learning Chinese: A Foundation Course in Mandarin (Part 4). _ The listening text, _Making Connections_, is cited as "Conn-1 (Greetings)", etc. And the reader, _Strange Stories from a Chinese Studio_, is cited as "Story-1 (八哥儿)", etc. Please refer to [readings]({{< baseurl >}}/pages/readings) for more information about these texts.
+The assignments below make reference to sections within three particular texts. "Unit" refers to the units of _Learning Chinese: A Foundation Course in Mandarin (Part 4). _ The listening text, _Making Connections_, is cited as "Conn-1 (Greetings)", etc. And the reader, _Strange Stories from a Chinese Studio_, is cited as "Story-1 (八哥儿)", etc. Please refer to {{% resource_link 6d83cd6a-4f37-eeab-2aaa-e89cd7e348bb "readings" %}} for more information about these texts.
 
 Note that the assignments are for the next day's class, regardless of how many days intervene. "Home" assignments are in preparation for the next day's class; "Class" assignments are in-class activities.
 
@@ -57,7 +62,7 @@ Class: Introductions: zìwŏjièshào; syllabus; materials. Making sure you can 
 {{< tdopen >}}
 
 
-Home: Recall earlier material by studying Chinese III, II, and I patterns ([PDF]({{< baseurl >}}/resources/mit21g_104s06_review)). You will be reviewing earlier material at appropriate times throughout the term. Study Unit 11 ([PDF]({{< baseurl >}}/resources/mit21g_104s06_unit11)): 11.1 (yi-patterns) and listen to 11.2 (Beijing), getting familiar with the names of places. Listen and read Story-1 (八哥儿).
+Home: Recall earlier material by studying Chinese III, II, and I patterns ({{% resource_link f10351b0-68d9-7a2f-4826-f19d9099e05e "PDF" %}}). You will be reviewing earlier material at appropriate times throughout the term. Study Unit 11 ({{% resource_link bdc881dd-4f7c-1072-47f7-025de6cdf46f "PDF" %}}): 11.1 (yi-patterns) and listen to 11.2 (Beijing), getting familiar with the names of places. Listen and read Story-1 (八哥儿).
 
 Class: "As soon as the teacher comes in"…. etc. Beijing map; the dialog; getting around town (review); winter weather, etc. Story-1: reading and questions.
 
@@ -72,7 +77,7 @@ Class: "As soon as the teacher comes in"…. etc. Beijing map; the dialog; getti
 {{< tdopen >}}
 
 
-Home: Unit 11 ([PDF]({{< baseurl >}}/resources/mit21g_104s06_unit11)), Ex. 1. Unit 11.3 (Requests). Finish reading Story-1. Listen to Conn-1 (Greetings).
+Home: Unit 11 ({{% resource_link bdc881dd-4f7c-1072-47f7-025de6cdf46f "PDF" %}}), Ex. 1. Unit 11.3 (Requests). Finish reading Story-1. Listen to Conn-1 (Greetings).
 
 Class: "Going to the Great Wall" and Ex. 1 (group feedback, then present your best version to the class). Finish Story-1; discussion of piānpáng, and the simplified/traditional differences. Pronunciation practice/pinyin dictation.
 
@@ -165,7 +170,7 @@ Class: Short presentations on U.S. geography, rivers, weather, distance, travel,
 
 Home: Unit 11.5 (Recipe); Ex. 4 (translation). Finish Story-3.
 
-Class: Practicing giving cooking instructions. Ordering dishes from the Chinese menu (Part III of the supplementary lesson in Learning Chinese) ([PDF]({{< baseurl >}}/resources/mit21g_104s06_menu)). If there's time, practice the Peking Duck dialogue from Chinese III.
+Class: Practicing giving cooking instructions. Ordering dishes from the Chinese menu (Part III of the supplementary lesson in Learning Chinese) ({{% resource_link efd6de01-3aa4-945e-92f9-2257a4429660 "PDF" %}}). If there's time, practice the Peking Duck dialogue from Chinese III.
 
 
 {{< tdclose >}}

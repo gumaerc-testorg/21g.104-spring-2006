@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: This section contains audio files.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: a05118db-5172-c603-a0ce-4852f37b20ed
 ---
 
-This section features the audio files needed for the [assignments]({{< baseurl >}}/pages/assignments) and [readings]({{< baseurl >}}/pages/readings).
+This section features the audio files needed for the {{% resource_link 9fc40ec1-661d-23c2-d224-0eff226bc4f9 "assignments" %}} and {{% resource_link 6d83cd6a-4f37-eeab-2aaa-e89cd7e348bb "readings" %}}.
 
 Audio Files
 -----------

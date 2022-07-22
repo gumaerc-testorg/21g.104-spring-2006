@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information about the course description, materials,
+  textbooks and recommended dictionaries.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 87f49e38-d305-e8c5-2187-c99af50f36ec
 ---
@@ -12,7 +16,7 @@ Lectures: 4 sessions / week, 1 hour / session
 Course Description
 ------------------
 
-This subject follows Chinese [21G.103](/courses/21g-103-chinese-iii-regular-fall-2005/) (Chinese III), and is the last in the sequence of subjects that constitutes MIT's foundation in Modern Standard Chinese (Mandarin). The foundation sequence (Chinese I through IV) covers the core grammar of the language, develops a sensitivity to linguistically appropriate behavior, introduces extensive vocabulary and usage as a basis for conversational and reading development, and provides a step-by-step guide to the principles and practice of reading and writing Chinese characters. In Chinese IV, you will consolidate and expand conversational usage and grammatical and cultural knowledge encountered in prior courses in the sequence, while focusing on improving reading and listening abilities. For this last semester in the foundation sequence, you will be able to exalt in the progress you have made over the year and a half as you develop several topics for presentation before the class.
+This subject follows Chinese [21G.103](/courses/21g-103-chinese-iii-regular-fall-2005) (Chinese III), and is the last in the sequence of subjects that constitutes MIT's foundation in Modern Standard Chinese (Mandarin). The foundation sequence (Chinese I through IV) covers the core grammar of the language, develops a sensitivity to linguistically appropriate behavior, introduces extensive vocabulary and usage as a basis for conversational and reading development, and provides a step-by-step guide to the principles and practice of reading and writing Chinese characters. In Chinese IV, you will consolidate and expand conversational usage and grammatical and cultural knowledge encountered in prior courses in the sequence, while focusing on improving reading and listening abilities. For this last semester in the foundation sequence, you will be able to exalt in the progress you have made over the year and a half as you develop several topics for presentation before the class.
 
 Materials
 ---------
@@ -290,7 +294,7 @@ Test 5 on Day #46
 Learning Chinese (Part 4)
 -------------------------
 
-Please refer to [readings]({{< baseurl >}}/pages/readings) and [study materials]({{< baseurl >}}/pages/study-materials) for the necessary texts and audio files, respectively.
+Please refer to {{% resource_link 6d83cd6a-4f37-eeab-2aaa-e89cd7e348bb "readings" %}} and {{% resource_link a05118db-5172-c603-a0ce-4852f37b20ed "study materials" %}} for the necessary texts and audio files, respectively.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -665,7 +669,7 @@ The Northwind and The Sun
 The Chinese Menu (Zhōngguó càidān)
 ----------------------------------
 
-Please refer to [readings]({{< baseurl >}}/pages/readings) for the text.
+Please refer to {{% resource_link 6d83cd6a-4f37-eeab-2aaa-e89cd7e348bb "readings" %}} for the text.
 
 {{< tableopen >}}
 {{< theadopen >}}

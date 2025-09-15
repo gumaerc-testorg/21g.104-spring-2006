@@ -2,7 +2,8 @@
 content_type: resource
 description: "This file contains information regarding the Chinese menu (Zh\u014D\
   nggu\xF3 c\xE0id\u0101n)."
-file: /courses/21g-104-chinese-iv-regular-spring-2006/efd6de013aa4945e92f92257a4429660_MIT21G_104S06_menu.pdf
+file: /ol-ocw-studio-app/courses/21g-104-chinese-iv-regular-spring-2006/efd6de013aa4945e92f92257a4429660_MIT21G_104S06_menu.pdf
+file_size: 803146
 file_type: application/pdf
 learning_resource_types:
 - Readings

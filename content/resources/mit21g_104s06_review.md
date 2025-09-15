@@ -2,7 +2,8 @@
 content_type: resource
 description: "This file contains information regarding highlights of units 10 \u2013\
   \ 1 (Chinese 3, 2, 1)."
-file: /courses/21g-104-chinese-iv-regular-spring-2006/f10351b068d97a2f4826f19d9099e05e_MIT21G_104S06_review.pdf
+file: /ol-ocw-studio-app/courses/21g-104-chinese-iv-regular-spring-2006/f10351b068d97a2f4826f19d9099e05e_MIT21G_104S06_review.pdf
+file_size: 198419
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -35,10 +35,11 @@
   },
   "learning_resource_types": [
     "Demonstration Audio",
-    "Online Textbook",
+    "Open Textbooks",
     "Activity Assignments with Examples"
   ],
   "site_uid": "922ec739-99b7-4fe3-9a08-e2dd5eefbe5c",
   "site_short_id": "21g.104-spring-2006",
+  "site_url_path": "courses/21g-104-chinese-iv-regular-spring-2006",
   "title": "Course Metadata"
 }

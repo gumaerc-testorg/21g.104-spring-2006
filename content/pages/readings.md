@@ -17,9 +17,9 @@ Required Textbooks
 
 Wheatley, Julian K. _Learning Chinese: A Foundation Course in Mandarin (Part 4)_.
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0887273661/ref=nosim/mitopencourse-20) Spring, Madeline K. _Making Connections: Enhance Your Listening Comprehension in Chinese_. Simplified character ed. Boston, MA: Cheng and Tsui Company, 2002. ISBN: 0887273661.
+{{% resource_link "28f0a2e9-2710-413b-9bc3-4bb8fc1c34a0" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Spring, Madeline K. _Making Connections: Enhance Your Listening Comprehension in Chinese_. Simplified character ed. Boston, MA: Cheng and Tsui Company, 2002. ISBN: 0887273661.
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0887101143/ref=nosim/mitopencourse-20) Hsia, Linda, and Roger Yeu. _Strange Stories from a Chinese Studio_. New Haven, NJ: Yale University Press, Far Eastern Publications, 1977. ISBN: 0887101143. Expanded to include pinyin and simplified characters, 1982.
+{{% resource_link "b3feb112-45a1-4f7e-8acb-2f02e30062d2" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Hsia, Linda, and Roger Yeu. _Strange Stories from a Chinese Studio_. New Haven, NJ: Yale University Press, Far Eastern Publications, 1977. ISBN: 0887101143. Expanded to include pinyin and simplified characters, 1982.
 
 Review Materials from Chinese I, II, and III
 --------------------------------------------

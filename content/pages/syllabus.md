@@ -28,20 +28,20 @@ Textbooks
 
 Wheatley, Julian K. _Learning Chinese: A Foundation Course in Mandarin (Part 4)_.
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0887273661/ref=nosim/mitopencourse-20) Spring, Madeline K. _Making Connections: Enhance Your Listening Comprehension in Chinese_. Simplified character ed. Boston, MA: Cheng and Tsui Company, 2002. ISBN: 0887273661. (Comes with two CDs. The simplified character version \[the one with the turquoise cover\] is recommended.)
+{{% resource_link "28f0a2e9-2710-413b-9bc3-4bb8fc1c34a0" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Spring, Madeline K. _Making Connections: Enhance Your Listening Comprehension in Chinese_. Simplified character ed. Boston, MA: Cheng and Tsui Company, 2002. ISBN: 0887273661. (Comes with two CDs. The simplified character version \[the one with the turquoise cover\] is recommended.)
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0887101143/ref=nosim/mitopencourse-20) Hsia, Linda, and Roger Yeu. _Strange Stories from a Chinese Studio_. New Haven, NJ: Yale University Press, Far Eastern Publications, 1977. ISBN: 0887101143. Expanded to include pinyin and simplified characters, 1982.
+{{% resource_link "b3feb112-45a1-4f7e-8acb-2f02e30062d2" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Hsia, Linda, and Roger Yeu. _Strange Stories from a Chinese Studio_. New Haven, NJ: Yale University Press, Far Eastern Publications, 1977. ISBN: 0887101143. Expanded to include pinyin and simplified characters, 1982.
 
 Recommended Dictionaries (Optional)
 -----------------------------------
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/082482766X/ref=nosim/mitopencourse-20) DeFrancis, John, ed. _ABC Chinese-English Dictionary_ (regular or pocket edition). Honolulu, HI: University of Hawaii Press, 2003. ISBN: 082482766X.  
+{{% resource_link "8b0ff044-0c98-4764-80ce-ce134924ca71" "![Buy at Amazon](/images/a_logo_17.gif)" %}} DeFrancis, John, ed. _ABC Chinese-English Dictionary_ (regular or pocket edition). Honolulu, HI: University of Hawaii Press, 2003. ISBN: 082482766X.  
 This is the only Chinese-to-English dictionary ordered by alphabet without reference to the head character of a word. In effect, this allows you to look up a word on the basis of its pronunciation alone, with no knowledge of the characters that represent it. (Searching by character is also possible.)
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0887273165/ref=nosim/mitopencourse-20) Huan, Wang, ed. _Cheng and Tsui Chinese-Pinyin-English Dictionary for Learners_. Boston, MA: Cheng and Tsui Co., 1999. ISBN: 0887273165.  
+{{% resource_link "11820428-834e-4698-9259-c645813c7c8b" "![Buy at Amazon](/images/a_logo_17.gif)" %}} Huan, Wang, ed. _Cheng and Tsui Chinese-Pinyin-English Dictionary for Learners_. Boston, MA: Cheng and Tsui Co., 1999. ISBN: 0887273165.  
 Organized by character (first character, if compound), with characters listed alphabetically according to pinyin pronunciation - the usual practice with modern dictionaries (other than the ABC Dictionary above). Within each entry, compounds are listed by pronunciation of second character. Entries include part-of-speech, example phrases or sentences (in characters followed by pinyin), and information on usage along with Chinese and English definitions. It uses the simplified set of characters in all entries and examples, with the traditional alternatives provided only for the main entry character. This dictionary was originally published by Beijing Language and Culture University Press in 1998 with the English title _Chinese-English Dictionary_, and then republished (with modification?) by Cheng and Tsui in 1999. The Chinese name of the Cheng and Tsui dictionary is _Jiànqiáo Hàn-Yīng Shuāngjiě Cídiăn "Cambridge Chinese-English Dual-explanation Dictionary"_ (with Cambridge apparently there just for its commercial appeal).
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/7100039312/ref=nosim/mitopencourse-20) 新华字典 (_Xīnhuá Zìdiăn "New China Dictionary"_). 10th revised ed. Beijing, China: 商务印书店 (Shāngwù Yìnshūdiàn "Commercial Press"), 2004. ISBN: 7100039312.  
+{{% resource_link "e259c31a-80b3-464f-a41d-9f51a0d73a66" "![Buy at Amazon](/images/a_logo_17.gif)" %}} 新华字典 (_Xīnhuá Zìdiăn "New China Dictionary"_). 10th revised ed. Beijing, China: 商务印书店 (Shāngwù Yìnshūdiàn "Commercial Press"), 2004. ISBN: 7100039312.  
 This is a very handy Chinese-to-Chinese dictionary available in pocket format with plastic cover. If you see it, buy two - they're inexpensive. Its entry characters are large (but only the simplified set is used in this dictionary), pronunciation is indicated in pinyin and bopomofo; definitions are succinct. However, this is a character dictionary (zìdiăn) not a word dictionary (cídiăn), so compounds are not listed under character entries. Entries are ordered by pinyin, though lookup by radical is also possible. This dictionary is most useful for checking the pronunciation and form of individual characters, and checking for phonetic sets.
 
 Grading and Assignments
@@ -109,7 +109,7 @@ How to succeed
 MIT International Science and Technology Initiatives (MISTI)
 ------------------------------------------------------------
 
-Read about the [MISTI program](http://mit.edu/misti/index.html). The [MIT China Program](http://mit.edu/mit-china/index.html) (one of the MISTI programs) sponsors students working or teaching in China over the summer or a school year.
+Read about the {{% resource_link "144a7d01-35c3-41fd-a8e5-a1c96e0faa64" "MISTI program" %}}. The {{% resource_link "3921ecdb-49e0-41e8-abef-ec8418bda10c" "MIT China Program" %}} (one of the MISTI programs) sponsors students working or teaching in China over the summer or a school year.
 
 Calendar
 --------
